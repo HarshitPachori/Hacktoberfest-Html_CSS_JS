@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Simple News App</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="app-header">
+    <div class="left">
+      <h1>Newsly</h1>
+      <p class="subtitle">Latest headlines from around the world</p>
+    </div>
+
+    <div class="controls">
+      <input id="searchInput" type="search" placeholder="Search headlines or topics..." />
+      <button id="searchBtn">Search</button>
+    </div>
+  </header>
+
+  <nav class="categories" id="categories">
+    <!-- Category buttons injected by JS -->
+  </nav>
+
+  <main>
+    <section id="status" class="status"></section>
+
+    <section id="articles" class="grid">
+      <!-- Articles injected here -->
+    </section>
+
+    <div class="pagination">
+      <button id="prevBtn" disabled>Previous</button>
+      <span id="pageIndicator">Page 1</span>
+      <button id="nextBtn">Next</button>
+    </div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
