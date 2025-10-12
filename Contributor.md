@@ -3,3 +3,4 @@
  3. Shurti Varshney | [Linkedin Profile](https://www.linkedin.com/in/shrutivarshney-tech) | [Github Profile](https://github.com/Shruti441) | [ Added loops.js with examples of all JavaScript loop types | Added functions.js with examples of normal and arrow function implementations |Added strings.js with examples of basic string methods (toUpperCase, toLowerCase, trim, slice, replace, split)
  ]
 4. Krishna Pramod Gaud | [LinkedIn](https://www.linkedin.com/in/krishna-gaud-981522350) | [GitHub](https://github.com/krishnagaud6) | [Added objectIteration.js demonstrating various ways to iterate over JavaScript objects with proper comments]
+4. Ayush Kumar | [LinkedIn](https://www.linkedin.com/in/ayush-kumar-368446246/) | [GitHub](https://github.com/ayush00git) | [Added the news app, just get your free api from newsapi.org and use the app]
