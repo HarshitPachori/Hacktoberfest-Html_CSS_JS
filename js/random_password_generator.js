@@ -13,25 +13,25 @@ const allChars = uppercase + lowercase + numbers + symbols;
 
 // Function to create password
 function createPassword() {
-  const length = parseInt(lengthInput.value) || 12;
-  let password = "";
+    const length = parseInt(lengthInput.value) || 12;
+    let password = "";
 
-  for (let i = 0; i < length; i++) {
-    const randomChar = allChars[Math.floor(Math.random() * allChars.length)];
-    password += randomChar;
-  }
+    for (let i = 0; i < length; i++) {
+        const randomChar = allChars[Math.floor(Math.random() * allChars.length)];
+        password += randomChar;
+    }
 
-  passwordField.value = password;
+    passwordField.value = password;
 }
 
 // Copy to clipboard function
 copyIcon.addEventListener("click", () => {
-  if (passwordField.value) {
-    navigator.clipboard.writeText(passwordField.value);
-    alert("✅ Password copied to clipboard!");
-  } else {
-    alert("⚠️ No password to copy!");
-  }
+    if (passwordField.value) {
+        navigator.clipboard.writeText(passwordField.value);
+        alert("\u2705 Password copied to clipboard!");
+    } else {
+        alert("\u26a0\ufe0f No password to copy!");
+    }
 });
 
 // Generate button event
