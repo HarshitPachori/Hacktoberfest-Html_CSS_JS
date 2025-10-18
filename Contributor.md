@@ -69,6 +69,9 @@
     - Added BMI Calculator with Health Advice project files under HTML, CSS and JS folder
     - Added Number Guessing Game project files under HTML, CSS and JS folder
 
+15. mukku vinay kumar | [LinkedIn](www.linkedin.com/in/mukku-vinay-kumar) | [GitHub](https://github.com/vinay-kumar-3574)
+    - implemented FibonacciSeries.js
+
 15. Aryan Doshi | [LinkedIn](https://www.linkedin.com/in/aryan-doshi-213a792a1) | [GitHub](https://github.com/aryan-2206)
     - Added linear_search.js under /dsa/array/searching/ implementing the Linear Search algorithm in javascript.
       - Included example usage, detailed comments, and time-space complexity.
