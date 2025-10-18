@@ -101,3 +101,6 @@ Yangchen Sherpa  | [Github](https://github.com/yonasherpa04)
         - Included examples for the algorithm
         - Time Complexity = O(n)
         - Space Complexity = O(n)
+20. Ankur Kumar | [LinkedIn](https://www.linkedin.com/in/ankur-kumar-74061b234/) |
+[Github](https://github.com/ankurO7)
+    - Added Left Rotate by K places program in javascript in O(n) Time complexity and O(1) Space complexity.
