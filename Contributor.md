@@ -87,3 +87,6 @@ Yangchen Sherpa  | [Github](https://github.com/yonasherpa04)
    -Implemented BFS Traversal
    -Included an example showing how to create a graph and use your function
    -Used an Adjacency List to represent the Graph and a Queue for traversal 
+
+17. Chaitanya Gidwani | [LinkedIn](www.linkedin.com/in/chaitanya-gidwani) | [GitHub](https://github.com/ChaitanyaGidwani)
+     -Added 'implement_maxsubarray_sum.js' in dsa folder
