@@ -13,6 +13,11 @@ module.exports = async ({ github, context, fileChanged }) => {
   const pr = context.payload.pull_request;
   const author = pr.user.login;
   const issue_number = context.issue.number;
+  
+  // Debug logging
+  console.log(`Processing PR #${issue_number} by @${author}`);
+  console.log(`Repository: ${context.repo.owner}/${context.repo.repo}`);
+  console.log(`File changed: ${fileChanged}`);
 
   // Fetch all existing PR comments
   const { data: comments } = await github.rest.issues.listComments({

@@ -10,6 +10,8 @@ jobs:
     permissions:
       issues: write
       pull-requests: write
+      contents: read
+      metadata: read
 
     steps:
       - name: Checkout code
@@ -42,3 +44,5 @@ jobs:
               context,
               fileChanged: '${{ steps.filecheck.outputs.fileChanged }}'
             });
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
