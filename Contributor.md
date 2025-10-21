@@ -111,8 +111,14 @@
 21. Ankur Kumar | [LinkedIn](https://www.linkedin.com/in/ankur-kumar-74061b234/) |
 [Github](https://github.com/ankurO7)
     - Added Left Rotate by K places program in javascript in O(n) Time complexity and O(1) Space complexity.
+22. Chandrasekhar Parchuri | [LinkedIn](https://www.linkedin.com/in/chandrasekhar-parchuri-2515a3311/) | [GitHub](https://github.com/chandra-011220)
+    - Added Heap Sort in JS under dsa/
+        - Implemented the Heap Sort algorithm using both Max Heap (ascending) and Min Heap (descending).
+        - Included examples for both sorting implementations.
+        - Time Complexity = O(n log n)
+        - Space Complexity = O(1)
 
-22. Ayush Sharma | [LinkedIn](https://linkedin.com/in/ayushHardeniya) | [GitHub](https://github.com/ayushHardeniya)
+23. Ayush Sharma | [LinkedIn](https://linkedin.com/in/ayushHardeniya) | [GitHub](https://github.com/ayushHardeniya)
     - Created new subdirectory named dsa_in_cpp
     - Added solution for problem "String to Integer (atoi) with proper example & source code
     - Time Complexity = O(n)
@@ -124,3 +130,5 @@
         - Included comprehensive examples, detailed comments, and performance comparison
         - Time Complexity: O(n) for frequency counting method, O(n log n) for sorting method
         - Space Complexity: O(1) for frequency counting, O(n) for sorting method
+23. Akshar Goyal | [LinkedIn](https://www.linkedin.com/in/akshar-goyal/) | [GitHub](https://github.com/AksharGoyal)
+    - Added pre-order and post-traversal method in `dsa/tree`
