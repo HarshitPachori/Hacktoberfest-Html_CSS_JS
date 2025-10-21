@@ -118,7 +118,7 @@
     - Time Complexity = O(n)
     - Space Complexity = O(1)
 
-23. Harshit Pachori | [GitHub](https://github.com/HarshitPachori)
+23. Aayushdev18 | [GitHub](https://github.com/Aayushdev18)
     - Added anagram checker implementation in JavaScript under `/dsa/anagram.js`
         - Implemented three different approaches: frequency counting, sorting, and Map-based
         - Included comprehensive examples, detailed comments, and performance comparison
