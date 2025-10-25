@@ -194,3 +194,6 @@
 37. Sahiba Joshi | [Linkedin Profile](https://www.linkedin.com/in/sahiba-joshi-7578aa317/) | [Github Profile](https://github.com/SA0806)
     - Corrected Paths to CSS and JS files in quiz_app.html
 
+38. Kartikeya Gupta | [LinkedIn Profile](https://www.linkedin.com/in/kartikeyagupta05) | [GitHub Profile](https://github.com/kartikeyagupta05)
+    - Added new sorting algorithms (Bubble, Selection, Insertion, Heap, Counting, Radix, and Bucket) to the Sorting section.
+    - Added multiple search algorithms (Linear, Jump) to the Searching section.
