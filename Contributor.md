@@ -207,3 +207,4 @@
     - Added new backtracking problems (Generate Parenthesis,Letter Combination,Rat in a maze problem) to the backtracking section under the dsa_in_cpp folder.
 40. Sandesh Raj | [LinkedIn](https://www.linkedin.com/in/sandesh282) | [GitHub](https://github.com/sandesh282)  
    - Added `merge_sorted_arrays.cpp` implementing merge of two sorted arrays in C++ with examples.
+   - Added Random Color Palette Generator (HTML/CSS/JS) under `tools/`.
