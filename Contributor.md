@@ -211,6 +211,11 @@ Added solution for custom range slider
 
 35. Harsh Shukla | [LinkedIn Profile](https://www.linkedin.com/in/shuklax/) | [GitHub Profile](https://github.com/Shuklax)
     - Added linked_list_cycle_hash.js -> Cycle detection in linked list using HashMap
+    - add Palindrome Linked List solution using Two Pointer technique
+    - add Intersection of Two Linked Lists solution
+    - Implement Remove Nth Node from End of Linked List
+    - Remove linked list elements
+    - Implement LRU Cache with TTL using Doubly Linked List and Min-Heap
 
 36. Shubhang Sagar Shukla | [Linkedin Profile](https://www.linkedin.com/in/shubhang-sagar-shukla-944767341/) | [Github Profile](https://github.com/Shubhang-Sagar-Shukla)
     - Added array form of integer
