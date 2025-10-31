@@ -256,4 +256,8 @@ Added solution for custom range slider
 45. Niranjan patil  | [LinkedIn](https://www.linkedin.com/in/niranjan-patil-8512a1374) | [GitHub](https://github.com/niranjanpatil1010)
      - Added Solution for Leetcode Q35 search insert position
      -added solution for median of two sorted array
-     -added Tik tak toe game using Html,css,js
+     
+46. Kavaljeet Singh Ahuja | [LinkedIn](https://www.linkedin.com/in/kavaljeet-singh-a76383334/) | [GitHub](https://github.com/kavaljeetsingh-dev)  
+   - Added solution for LeetCode Q142 Detect Cycle in Linked List  
+   - Added main function and detailed comments for better understanding
+   - Added Tik tak toe game using Html,css,js
