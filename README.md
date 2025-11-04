@@ -238,28 +238,46 @@ After your PR is merged, add yourself to `Contributor.md`:
 ## 👨‍💻 Maintainers
 
 <div align="center">
-<table>
+<h2 align="center">🛠️ Maintainers</h2>
+
+<table align="center">
 <tr>
 <td align="center" width="50%">
-<a href="https://github.com/HarshitPachori">
-<img src="https://github.com/HarshitPachori.png" width="100px;" alt="Harshit Pachori"/><br />
-<sub><b>Harshit Pachori</b></sub>
-</a><br />
-<a href="https://github.com/HarshitPachori" title="GitHub">💻</a>
-<a href="https://linkedin.com/in/harshitpachori" title="LinkedIn">💼</a>
-<a href="#" title="Review">👀</a>
+  <a href="https://github.com/HarshitPachori">
+    <img src="https://github.com/HarshitPachori.png" width="120px;" alt="Harshit Pachori"/>
+    <br />
+    <b><span style="font-size:16px;">Harshit Pachori</span></b>
+  </a>
+  <br /><br />
+  <a href="https://linkedin.com/in/harshitpachori">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/HarshitPachori">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </td>
-<td align="center" width="50%">
-<a href="https://github.com/ayushHardeniya">
-<img src="https://github.com/ayushHardeniya.png" width="100px;" alt="Ayush Sharma"/><br />
-<sub><b>Ayush Sharma</b></sub>
-</a><br />
-<a href="https://github.com/ayushHardeniya" title="GitHub">💻</a>
-<a href="https://linkedin.com/in/ayushHardeniya" title="LinkedIn">💼</a>
-<a href="https://twitter.com/ayushHardeniya" title="Twitter">🐦</a>
+
+<td align="center" width="100%">
+  <a href="https://github.com/ayushHardeniya">
+    <img src="https://github.com/ayushHardeniya.png" width="120px;" alt="Ayush Sharma"/>
+    <br />
+    <b><span style="font-size:16px;">Ayush Sharma</span></b>
+  </a>
+  <br /><br />
+  <a href="https://linkedin.com/in/ayushHardeniya">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ayushHardeniya">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://twitter.com/ayushHardeniya">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
 </td>
 </tr>
 </table>
+
+
 **Need help?** Tag maintainers in your issues or PRs!
 </div>
 
@@ -276,7 +294,7 @@ After your PR is merged, add yourself to `Contributor.md`:
 </a>
 
 ### **Join the List!**
-Make your first contribution and see your avatar here! Every contribution counts. 🚀
+Make a valid contribution and get your avatar reflected here. 🚀Every contribution counts.
 
 <img src="https://img.shields.io/github/contributors/HarshitPachori/Hacktoberfest-Html_CSS_JS?style=for-the-badge&color=blue" alt="Total Contributors">
 
@@ -288,7 +306,7 @@ Make your first contribution and see your avatar here! Every contribution counts
 
 <div align="center">
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HarshitPachori&repo=Hacktoberfest-Html_CSS_JS&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshitPachori&repo=Hacktoberfest-Html_CSS_JS&theme=github-compact)
 
 </div>
 
@@ -313,13 +331,14 @@ Make your first contribution and see your avatar here! Every contribution counts
 <td width="25%" align="center">
 
 ### ❓ Need Help?
-[Start Discussion](https://github.com/HarshitPachori/Hacktoberfest-Html_CSS_JS/discussions)
+[Start Discussion](https://github.com/)
 
 </td>
 <td width="25%" align="center">
 
 ### 📧 Contact Us
-[Reach Maintainers](https://github.com/HarshitPachori)
+[Reach Maintainers](#️-maintainers)
+
 
 </td>
 </tr>
