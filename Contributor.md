@@ -155,6 +155,19 @@ Added solution for custom range slider
     - Adding source code with proper documentation for Sqrt(X)
       - Time Complexity = O(log N)
       - Space Complexity = O(1)
+    - Updated the complete repo structure, by adding multiple files (like listed below) for project maintenance & redesigned readme for a fresh modern look:
+       ## 🔍 Detailed Changes Added
+
+      - **`CODE_OF_CONDUCT.md`** – Based on *Contributor Covenant 2.1.2*, updated its path & bit content..  
+      - **`CONTRIBUTING.md`** – Comprehensive contribution guidelines, updated path & modified content.  
+      - **`CHANGELOG.md`** – Version history tracker.  
+      - **`REPOSITORY_STRUCTURE.md`** – Complete structure documentation.  
+      - **`.github/workflows/greetings.yml`** – GitHub Actions for greetings.  
+      - **`.vscode/settings.json`** – VS Code workspace settings.  
+      - **`.vscode/extensions.json`** – Recommended extensions for contributors.  
+      - **`docs/GETTING_STARTED.md`** – Beginner-friendly getting started guide.  
+      - **`docs/LICENSE_INFO.md`** – License explanation and usage notes.  
+      - **`.gitignore`** – Enhanced ignore patterns for various environments.
 
 24. Akshar Goyal | [LinkedIn](https://www.linkedin.com/in/akshar-goyal/) | [GitHub](https://github.com/AksharGoyal)
     - Added palindrome checker in JavaScript under `/dsa/palindrome.js` with reverse, two-pointer, and recursive methods, examples, and complexity analysis
@@ -176,9 +189,9 @@ Added solution for custom range slider
 28. Vedant Patole | [LinkedIn](https://www.linkedin.com/in/vedant-patole-92a026301/) | [GitHub](https://github.com/PatoleVedant)
 - Implemented Linked List Creation and Traversal in Javascript in O(n) Time Complexity and O(1) Space Complexity.
 
-29. Ashutosh Mishra | [LinkedIn](https://www.linkedin.com/in/theashutoshmishra/) | [GitHub](https://github.com/TheAshutoshMishra)
+1.  Ashutosh Mishra | [LinkedIn](https://www.linkedin.com/in/theashutoshmishra/) | [GitHub](https://github.com/TheAshutoshMishra)
 
-30. Saniya Arora | [LinkedIn](https://www.linkedin.com/in/saniya-arora-214509298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  | [GitHub](https://github.com/SaniyaArora03)
+2.  Saniya Arora | [LinkedIn](https://www.linkedin.com/in/saniya-arora-214509298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  | [GitHub](https://github.com/SaniyaArora03)
     - Added solution for Swim in Rising Water(LEETCODE 778)(HARD) under dsa_in_cpp folder
     - Added solution for Candy(LEETCODE 135)(HARD) under dsa_in_cpp folder
     - Added solution for Rotting Oranges(LEETCODE 994)under dsa_in_cpp folder
@@ -187,21 +200,21 @@ Added solution for custom range slider
     - Added solution for Trapping Rainwater(LEETCODE 42)under dsa_in_cpp folder
     - Added solution for Best time to buy and sell stock(LEETCODE 122)under dsa_in_cpp folder
 
-31. Rudrakshi Chincholkar | [LinkedIn](https://www.linkedin.com/in/rudrakshi-c/) | [GitHub](https://github.com/RudrakshiChincholkar)
+3.  Rudrakshi Chincholkar | [LinkedIn](https://www.linkedin.com/in/rudrakshi-c/) | [GitHub](https://github.com/RudrakshiChincholkar)
     - Added Spiral Traversal of a 2D matrix.
 
-32. Purvasha Singh | [LinkedIn](https://www.linkedin.com/in/purvasha-singh-941079333/) | [GitHub](https://github.com/purrvax)
+4.  Purvasha Singh | [LinkedIn](https://www.linkedin.com/in/purvasha-singh-941079333/) | [GitHub](https://github.com/purrvax)
     - Added three sum leetcode solution in three way
     - Added a new game - Fruit Catcher
 
-33. Shaily Gupta | [LinkedIn Profile](https://www.linkedin.com/in/shaily-gupta62) | [GitHub Profile](https://github.com/Shaily-62)
+5.  Shaily Gupta | [LinkedIn Profile](https://www.linkedin.com/in/shaily-gupta62) | [GitHub Profile](https://github.com/Shaily-62)
     - Created dsa_in_java folder structure with proper examples.
     - Added MergeSort.java with full implementation of Merge Sort (Divide & Conquer) including comments, example input/output.
     - Added QuickSort.java with full implementation of Quick Sort (Divide & Conquer) including comments, example input/output.
     - Added BinarySearch.java for recursive Binary Search including comments and edge-case handling.
     - Added Comparision between recursive & iterative time complexities for Merge Sort , Quick Sort and Binary Search.
 
-34. Dhairyati P.| [Github Profile](https://github.com/Dhairyati)
+6.  Dhairyati P.| [Github Profile](https://github.com/Dhairyati)
     - Added Recipe Finder project with separate folder structure for HTML, CSS, and JavaScript.
       - recipe.html — main page with search input and results section.
       - recipe.css — styling for cards, modal, and responsive layout.
@@ -209,16 +222,16 @@ Added solution for custom range slider
       - Implemented modal functionality, dynamic card generation, and responsive design.
       - Demonstrates API integration, DOM manipulation, and interactive UI.
 
-35. Harsh Shukla | [LinkedIn Profile](https://www.linkedin.com/in/shuklax/) | [GitHub Profile](https://github.com/Shuklax)
+7.  Harsh Shukla | [LinkedIn Profile](https://www.linkedin.com/in/shuklax/) | [GitHub Profile](https://github.com/Shuklax)
     - Added linked_list_cycle_hash.js -> Cycle detection in linked list using HashMap
 
-36. Shubhang Sagar Shukla | [Linkedin Profile](https://www.linkedin.com/in/shubhang-sagar-shukla-944767341/) | [Github Profile](https://github.com/Shubhang-Sagar-Shukla)
+8.  Shubhang Sagar Shukla | [Linkedin Profile](https://www.linkedin.com/in/shubhang-sagar-shukla-944767341/) | [Github Profile](https://github.com/Shubhang-Sagar-Shukla)
     - Added array form of integer
 
-37. Sahiba Joshi | [Linkedin Profile](https://www.linkedin.com/in/sahiba-joshi-7578aa317/) | [Github Profile](https://github.com/SA0806)
+9.  Sahiba Joshi | [Linkedin Profile](https://www.linkedin.com/in/sahiba-joshi-7578aa317/) | [Github Profile](https://github.com/SA0806)
     - Corrected Paths to CSS and JS files in quiz_app.html
 
-38. Kartikeya Gupta | [LinkedIn Profile](https://www.linkedin.com/in/kartikeyagupta05) | [GitHub Profile](https://github.com/kartikeyagupta05)
+10. Kartikeya Gupta | [LinkedIn Profile](https://www.linkedin.com/in/kartikeyagupta05) | [GitHub Profile](https://github.com/kartikeyagupta05)
     - Added new sorting algorithms (Bubble, Selection, Insertion, Heap, Counting, Radix, and Bucket) to the Sorting section.
     - Added multiple search algorithms (Linear, Jump) to the Searching section.
     - Added linked list operations (Insertion, Deletion, Reversal) to the Linked List section. And linkedlist questions (Find middle node, Detect cycle). from LeetCode.
@@ -231,33 +244,33 @@ Added solution for custom range slider
     - Added Hashing Questions (Two Sum, Group Anagrams, Longest Consecutive Sequence) from LeetCode.
     - Added Dynamic Programming Questions (Climbing Stairs, House Robber, Coin Change) and topic like Basic DP, 1D & 2D DP and Advanced DP from LeetCode.
 
-39. Rudra Pratap Singh | [LinkedIn Profile](https://www.linkedin.com/in/rudra-pratap-singh-0974a92b5/) | [GitHub Profile](https://github.com/Rudra2637)
+11. Rudra Pratap Singh | [LinkedIn Profile](https://www.linkedin.com/in/rudra-pratap-singh-0974a92b5/) | [GitHub Profile](https://github.com/Rudra2637)
     - Added new backtracking problems (Generate Parenthesis,Letter Combination,Rat in a maze problem) to the backtracking section under the dsa_in_cpp folder.
-40. Sandesh Raj | [LinkedIn](https://www.linkedin.com/in/sandesh282) | [GitHub](https://github.com/Sandesh282)
+12. Sandesh Raj | [LinkedIn](https://www.linkedin.com/in/sandesh282) | [GitHub](https://github.com/Sandesh282)
    - Added `merge_sorted_arrays.cpp` implementing merge of two sorted arrays in C++ with examples.
    - Added Random Color Palette Generator (HTML/CSS/JS) under `tools/`.
 
-41. champ-byte| [LinkedIn](https://www.linkedin.com/in/kavya-zala-b5a942377) | [GitHub](https://github.com/champ-byte)
+13. champ-byte| [LinkedIn](https://www.linkedin.com/in/kavya-zala-b5a942377) | [GitHub](https://github.com/champ-byte)
     - Added solution to merging sorted arrays.
     - Added rock paper scissor game
 
-42. Varun Gupta | [LinkedIn](www.linkedin.com/in/varunn-guptaa/) | [GitHub](https://github.com/VarunThisSide)
+14. Varun Gupta | [LinkedIn](www.linkedin.com/in/varunn-guptaa/) | [GitHub](https://github.com/VarunThisSide)
     - Added Binary Search topic in dsa_in_cpp section.
-43. Suvansh Tembe | [LinkedIn](https://www.linkedin.com/in/suvansh-tembe-23b81228b/) | [GitHub](https://github.com/SuvanshTembe)
+15. Suvansh Tembe | [LinkedIn](https://www.linkedin.com/in/suvansh-tembe-23b81228b/) | [GitHub](https://github.com/SuvanshTembe)
     - Added Solution Integer to Roman in cpp/string section.
-43. Athrva Sarade | [LinkedIn](https://www.linkedin.com/in/athrva-sarade-59526232a/) | [GitHub](https://github.com/athrvas017)
+16. Athrva Sarade | [LinkedIn](https://www.linkedin.com/in/athrva-sarade-59526232a/) | [GitHub](https://github.com/athrvas017)
     - Added Solution for Leetcode Q860 Lemonade Change.
     - Added Solution for Leetcode Q875 koko eating  bananas
     - Added a simple Hand Cricket Game using HTML, CSS and JS
 
-44. 1. Wangari Jane | [LinkedIn](https://www.https://www.linkedin.com/in/jane-wangari-32b284345/) | [GitHub](https://github.com/Wangarijane) 
+17. 1. Wangari Jane | [LinkedIn](https://www.https://www.linkedin.com/in/jane-wangari-32b284345/) | [GitHub](https://github.com/Wangarijane) 
     - Fixed typos and formatting in README
 
-45. Niranjan patil  | [LinkedIn](https://www.linkedin.com/in/niranjan-patil-8512a1374) | [GitHub](https://github.com/niranjanpatil1010)
+18. Niranjan patil  | [LinkedIn](https://www.linkedin.com/in/niranjan-patil-8512a1374) | [GitHub](https://github.com/niranjanpatil1010)
      - Added Solution for Leetcode Q35 search insert position
      -added solution for median of two sorted array
      
-46. Kavaljeet Singh Ahuja | [LinkedIn](https://www.linkedin.com/in/kavaljeet-singh-a76383334/) | [GitHub](https://github.com/kavaljeetsingh-dev)  
+19. Kavaljeet Singh Ahuja | [LinkedIn](https://www.linkedin.com/in/kavaljeet-singh-a76383334/) | [GitHub](https://github.com/kavaljeetsingh-dev)  
    - Added solution for LeetCode Q142 Detect Cycle in Linked List  
    - Added main function and detailed comments for better understanding
    - Added Tik tak toe game using Html,css,js
