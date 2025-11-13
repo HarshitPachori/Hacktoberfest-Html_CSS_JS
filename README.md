@@ -306,7 +306,7 @@ Make a valid contribution and get your avatar reflected here. 🚀Every contribu
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshitPachori&repo=Hacktoberfest-Html_CSS_JS&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushHardeniya&repo=Hacktoberfest-Html_CSS_JS&theme=github-compact)
 
 </div>
 
